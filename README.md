@@ -132,9 +132,7 @@ If you have any feedback or suggestions, feel free to reach out at
 
 
 
-## FAQ
-
-❓ FAQ
+##❓ FAQ
 
 #### Q1. Are real-time stock prices used?
 No. The program uses manually defined stock prices for simplicity.
