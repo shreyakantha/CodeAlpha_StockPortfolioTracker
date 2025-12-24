@@ -123,11 +123,11 @@ If you have any feedback or suggestions, feel free to reach out at 📧 shreyaka
 
 ##❓ FAQ
 #### Q1. Are real-time stock prices used?
-No. The program uses manually defined stock prices for simplicity.
+**Answer.** No. The program uses manually defined stock prices for simplicity.
 #### Q2. Can I add more stocks?
-Yes. You can add more entries to the stock_prices dictionary.
+**Answer.** Yes. You can add more entries to the stock_prices dictionary.
 #### Q3. Where are the output files saved?
-The .txt or .csv file is saved in the same directory where the program is executed.
+**Answer.** The .txt or .csv file is saved in the same directory where the program is executed.
 
 ## 🧩 Appendix
 This project was completed as ***The second task Stock Portfolio Tracker*** under the CodeAlpha Python Programming Internship, with a focus on practicing data handling, user input processing, and basic investment calculations using Python.
