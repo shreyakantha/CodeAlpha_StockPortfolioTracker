@@ -121,7 +121,7 @@ This project is open for educational and personal use. Feel free to modify, impr
 ## 💬 Feedback
 If you have any feedback or suggestions, feel free to reach out at 📧 shreyakantha348@gmail.com
 
-##❓ FAQ
+## ❓ FAQ
 #### Q1. Are real-time stock prices used?
 **Answer.** No. The program uses manually defined stock prices for simplicity.
 #### Q2. Can I add more stocks?
