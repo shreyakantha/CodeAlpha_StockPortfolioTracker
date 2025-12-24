@@ -19,9 +19,9 @@ Build a simple stock portfolio tracker in Python that calculates the total inves
 - File handling for saving results
 
 ## 🛠 Tech Stack
-Language: Python
+**Language :** Python
 
-Environment: Terminal / Command Line
+**Environment :** Terminal/Command Line
 
 ## 📂 Project Structure
 ``` bash
@@ -34,20 +34,24 @@ CodeAlpha_StockPortfolioTracker/
 ## 📥  Installation
 Clone the repository using Git : 
 ```bash
-git clone https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker
+  git clone https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker
 cd CodeAlpha_StockPortfolioTracker
 ```
-    
-## 🖥  Run Locally
-Navigate to the project directory and run the script :
+
+## 🖥 Run Locally
+Navigate to the location of your file :
 ```bash
-python StockPortfolioTracker.py
+  cd CodeAlpha_StockPortfolioTracker
+```
+Run the script :
+```bash
+ python StockPortfolioTracker.py
 ```
 
 ## 🎥 Demo
 *A video demonstration of the Stock Portfolio Tracker showing the complete working of the program, including user input, investment calculation, and file saving functionality.*
 
- [ ▶ Click here to view the demo video of the stock portfolio tracker ](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker/releases/tag/v1.0)
+ [ ▶ click here to view the demo video of the stock portfolio tracker ](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker/releases/tag/v1.0)
 
 ## 📝 Usage / Example
 When the program runs, it prompts the user to enter stock names and quantities as shown below :
